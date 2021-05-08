@@ -143,6 +143,9 @@ menu {
     color: #000;
     margin: .7rem 1rem;
 }
+.sub-link:hover{
+    text-decoration: underline;
+}
 
 .sub-link.mln {
     margin: .7rem 0;
